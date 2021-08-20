@@ -1,0 +1,32 @@
+h2{
+    color: white;
+    background-color: #a005a0;
+    width: 100%;    
+    text-align: center;
+    padding: 30px;
+}
+.left li{
+    width: 95%;
+    background-color: #12b3f3;
+    color: white;
+    margin: 5px;
+    padding: 10px;
+}
+.left ul{
+    list-style: none;
+}
+h3{
+    text-align: center;
+}
+.mid{
+    display:inline-block;
+    padding: 20px;
+}
+
+.right ul{
+    background-color: #12b3f3;
+    color: white;
+    margin-top: 10px;
+    width: 100%;
+    padding: 30px 50px;
+}
